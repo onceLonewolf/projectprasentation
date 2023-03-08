@@ -1,0 +1,26 @@
+
+body {
+  background-color: rgb(119, 179, 182);
+}
+.box-3 {
+  margin-top: 2%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-bottom: 36%;
+  padding-left: 2%;
+  padding-top: 1%;
+  background-color: white;
+}
+.real-cont {
+  font-size: 120%;
+  font-family: sans-serif;
+  border-radius: 1px;
+  text-decoration: underline;
+  color: rgb(255, 28, 28);
+  font-weight: 600;
+}
+.cont {
+  font-size: 110%;
+  font-family: sans-serif;
+  font-weight: 500;
+}
